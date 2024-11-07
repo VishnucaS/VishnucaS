@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Vishnuca 👋
 
 <!--
 **VishnucaS/VishnucaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👯 With Bachelor of Science(Honours) in Information Technology from the University of Moratuwa, my journey as a Data Engineer has honed my skills in developing smooth and efficient data pipelines.
+
+- 😄 My proficiency in Developing ETL Pipelines, Data modeling, Python, Incremental Loading, Transact-SQL, Stored Porcedures, Spark, Cloudera Data Platform, AWS stand as a testament to my commitment to advancing in data engineering.
+
+- 🌱 I also hold certifications in Microsoft Azure Data Fundamentals(DP 900) and Azure Data Engineer Associate (DP 203) reinforcing my commitment to staying current with industry best practices.
