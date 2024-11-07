@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 With Bachelor of Science(Honours) in Information Technology from the University of Moratuwa, my journey as a Data Engineer has honed my skills in developing smooth and efficient data pipelines.
+- 👯 With a Bachelor of Science(Honours) in Information Technology from the University of Moratuwa, my journey as a Data Engineer has honed my skills in developing smooth and efficient data pipelines.
 
 - 😄 My proficiency in Developing ETL Pipelines, Data modeling, Python, Incremental Loading, Transact-SQL, Stored Porcedures, Spark, Cloudera Data Platform, AWS stand as a testament to my commitment to advancing in data engineering.
 
